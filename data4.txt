@@ -1,0 +1,14 @@
+Alice GUI,Backend,Support
+Bill Finances,Backend
+Cath Documentation,Finances
+Jack Documentation,Frontend,Support
+Michael Frontend
+Steve Documentation,Backend
+P1 J1,J2,J7,J8
+P2 J3,J2,J7,J8
+P3 J3,J7,J8
+P4 J4,J5,J7,J8
+P5 J4,J6,J7,J8
+P6 J5,J7,J8
+P7 J7,J8
+P8 J7,J8
